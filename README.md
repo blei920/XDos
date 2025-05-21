@@ -35,3 +35,10 @@ By using this script, you acknowledge that the author is not liable for any misu
 ## Getting Started 🚀
 
 To get started, simply clone the repository, review the code to understand its workings, and run it against servers you own or have permission to test. Always practice responsible cybersecurity and avoid any actions that may disrupt legitimate services.
+
+## How to run on termux
+
+```bash
+git clone https://github.com/blei920/XDos.git
+cd XDos
+python XDos.py
