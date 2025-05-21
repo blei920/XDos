@@ -42,3 +42,12 @@ To get started, simply clone the repository, review the code to understand its w
 git clone https://github.com/blei920/XDos.git
 cd XDos
 python XDos.py
+```
+
+## Arguement
+
+
+```bash
+python XDos.py -u <CHANGE THIS TO TARGET URL> -r 100 -m GET --fast --proxy <CHANGE THIS TO YOUR PROXY> --refer "https://bing.com"
+```
+Without the < >
