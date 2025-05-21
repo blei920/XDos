@@ -36,18 +36,41 @@ By using this script, you acknowledge that the author is not liable for any misu
 
 To get started, simply clone the repository, review the code to understand its workings, and run it against servers you own or have permission to test. Always practice responsible cybersecurity and avoid any actions that may disrupt legitimate services.
 
-## How to run on termux
+## How to Run XDos on Termux 🚀
 
-```bash
-git clone https://github.com/blei920/XDos.git
-cd XDos
-python XDos.py
-```
+1. Open Termux 📱  
+2. Clone the XDos Repository 🧬  
+   ```bash
+   git clone https://github.com/blei920/XDos.git
+   ```
 
-## Arguement
+3. Navigate to the Project Folder 📁  
+   ```bash
+   cd XDos
+   ```
+
+4. Run the Script 🐍  
+   ```bash
+   python XDos.py
+   ```
 
 
-```bash
+## How to Use the Arguments ⚙️
+
+To launch an attack (for testing/educational purposes only), use the format below:
+
+   ```bash
 python XDos.py -u <CHANGE THIS TO TARGET URL> -r 100 -m GET --fast --proxy <CHANGE THIS TO YOUR PROXY> --refer "https://bing.com"
 ```
-Without the < >
+
+⚠️ Replace:
+- <CHANGE THIS TO TARGET URL> with the actual target URL (remove the < >)
+- <CHANGE THIS TO YOUR PROXY> with your working proxy (remove the < >)
+
+Example:
+
+   ```bash
+python XDos.py -u https://example.com -r 100 -m GET --fast --proxy 127.0.0.1:8080 --refer "https://bing.com"
+```
+
+⚠️ Disclaimer: This tool is for **educational and authorized testing only**. Do not target websites you don’t own or have permission to test.
