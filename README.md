@@ -24,13 +24,6 @@ This script is intended strictly for ethical use and academic exploration. By ru
 - Educational comments 📚: Inline explanations to help users understand each part of the code  
 - Non-malicious intent 🚫: Designed for learning, not for causing harm
 
-## How to run
-
-```bash
-git clone https://github.com/blei920/XDos.git
-cd XDos
-python XDos.py  
-
 ## Ethical Considerations and Legal Disclaimer ⚠️
 
 IMPORTANT: This script is designed and shared solely for educational purposes and authorized testing. Unauthorized use against servers or networks without permission is illegal and unethical. Misusing this tool can cause real damage and may have legal consequences. Users are responsible for ensuring they comply with all applicable laws and obtain explicit consent before conducting any testing.
