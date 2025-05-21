@@ -22,7 +22,14 @@ This script is intended strictly for ethical use and academic exploration. By ru
 - Basic packet flooding 🌧️: Sends continuous requests to the target to simulate stress  
 - Minimal dependencies 📦: Runs on any system with Python installed without additional libraries  
 - Educational comments 📚: Inline explanations to help users understand each part of the code  
-- Non-malicious intent 🚫: Designed for learning, not for causing harm  
+- Non-malicious intent 🚫: Designed for learning, not for causing harm
+
+## How to run
+
+```bash
+git clone https://github.com/blei920/XDos.git
+cd XDos
+python XDos.py  
 
 ## Ethical Considerations and Legal Disclaimer ⚠️
 
