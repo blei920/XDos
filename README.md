@@ -18,8 +18,8 @@ This script is intended strictly for ethical use and academic exploration. By ru
 ## Features ⚙️
 
 - Lightweight Python implementation 🐍: Easy to read, modify, and extend according to your testing needs  
-- Customizable target and port 🎯: Specify the IP address or domain and the port number you wish to test  
-- Basic packet flooding 🌧️: Sends continuous requests to the target to simulate stress  
+- Customizable target and port 🎯: Specify the domain you wish to test  
+- Basic HTTP flooding 🌧️: Sends continuous requests to the target to simulate stress  
 - Minimal dependencies 📦: Runs on any system with Python installed without additional libraries  
 - Educational comments 📚: Inline explanations to help users understand each part of the code  
 - Non-malicious intent 🚫: Designed for learning, not for causing harm
